@@ -1,3 +1,45 @@
+* `19/07/15` [add] Publish v1.25.0.
+* `19/07/14` [upd] Bus plugin for use BusUtils. Publish bus plugin v2.0.
+* `19/07/13` [add] Api plugin for use ApiUtils. Publish api plugin v1.0.
+* `19/07/09` [upd] The frame of project.
+* `19/07/06` [upd] BusUtils which behave same as EventBus.
+* `19/07/03` [add] ApiUtils which decoupling modules.
+* `19/06/30` [add] LanguageUtils support activity's class name. Publish v1.25.0.
+* `19/06/29` [add] ClickUtils#OnMultiClickListener, and remove dangerous function. Publish v1.24.6.
+* `19/06/28` [add] LanguageUtils. Publish v1.24.5.
+* `19/06/20` [fix] BusUtils' permission. Publish v1.24.4.
+* `19/06/19` [fix] UriUtils. Publish v1.24.3.
+* `19/06/18` [add] ClickUtils, ViewUtils.
+* `19/06/07` [fix] LogUtils file name contains ':'. Publish v1.24.2.
+* `19/06/06` [fix] LogUtils write to file. Publish v1.24.1.
+* `19/06/03` [fix] Refactoring framework. Publish v1.24.0.
+* `19/04/25` [fix] LogUtils delete due log.
+* `19/04/24` [upd] The swipe panel.
+* `19/03/17` [fix] The ugly UI.
+* `19/03/14` [fix] AdaptScreenUtils didn't work on some HaWei tablet.
+* `19/03/08` [add] LogUtils support multi process. Publish v1.23.7.
+* `19/03/02` [fix] LogUtils#file.
+* `19/02/28` [fix] ImageUtils#calculateInSampleSize. Publish v1.23.6.
+* `19/02/26` [fix] UriUtils#uri2File. Publish v1.23.5.
+* `19/01/31` [add] HttpUtils.
+* `19/01/30` [add] RomUtils. Publish v1.23.4.
+* `19/01/29` [fix] LogUtils format json when json not start with '{'. Publish v1.23.3.
+* `19/01/28` [fix] KeyboardUtils#fixSoftInputLeaks don't work on the device of HuaWei.
+* `19/01/26` [fix] NetworkUtils#getNetworkType.
+* `19/01/25` [add] CloneUtils, PermissionUtils support request permission of WRITE_SETTINGS and DRAW_OVERLAYS. Publish v1.23.2.
+* `19/01/24` [add] BrightnessUtils and FlashlightUtils.
+* `19/01/23` [add] Modify the demo of utilcode use kotlin. Publish v1.23.1.
+* `19/01/22` [fix] AppUtils#installApp.
+* `19/01/17` [fix] Publish v1.23.0.
+* `19/01/16` [fix] BarUtils get Activity from view and delete the function of set status bar alpha.
+* `19/01/15` [add] ColorUtils.
+* `19/01/04` [add] CacheDiskStaticUtils, CacheDoubleStaticUtils, CacheMemoryStaticUtils.
+* `19/01/03` [add] SPStaticUtils.
+* `19/01/02` [fix] LogUtils log object. Publish v1.22.10.
+* `19/01/01` [add] GsonUtils.
+* `18/12/29` [add] AntiShakeUtils and VibrateUtils. Publish v1.22.9.
+* `18/12/28` [fix] ToastUtils show behind the dialog when close notification.
+* `18/12/27` [fix] LogUtils print StringBuilder failed.
 * `18/12/24` [fix] Utils$ActivityLifecycleImpl.consumeOnActivityDestroyedListener ConcurrentModificationException. Publish v1.22.7.
 * `18/12/22` [fix] AdaptScreenUtils#pt2px don't work when start webview. Publish v1.22.6.
 * `18/12/21` [add] LogUtils support print Map, Collection and Object to String.
